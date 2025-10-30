@@ -6,7 +6,6 @@ public class Calculadora {
 		        System.out.println("=== Calculadora Básica ===");
 		        double a = 10;
 		        double b = 5;
-		        
 		 
 		        System.out.println("Suma: " + (a + b));
 		        System.out.println("Resta: " + (a - b));
