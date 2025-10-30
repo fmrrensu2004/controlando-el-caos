@@ -12,6 +12,7 @@ public class Calculadora {
 		        System.out.println("Multiplicación: " + (a * b));
 		        System.out.println("División: " + (a / b));
 		        System.out.println("Porcentaje: " + (b*a)/100);
+		        System.out.println("La raiz de " + a + " : " +  Math.sqrt(a));
 	
 	}
 }
