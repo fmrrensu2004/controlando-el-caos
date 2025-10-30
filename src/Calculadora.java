@@ -3,7 +3,7 @@ public class Calculadora {
 	
 	public static void main(String[] args) {
 		
-		        System.out.println("=== Calculadora marcelo ===");
+		        System.out.println("=== Calculadora Peru ===");
 		        double a = 10;
 		        double b = 5;
 		        
